@@ -32,6 +32,69 @@ function SearchPage() {
                 title="Learn by Building apps with React JS"
                 image="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRudU9p9BZfNulTMSw-b2iNU3jbQu7S4Tf-4g&usqp=CAU"
             />
+            <VideoRow
+                views="600k"
+                subs="300k"
+                description="Perfecting and Honing web dev skills.....awsome"
+                timestamp="30 mins ago"
+                channel="Hookypoo's Place"
+                title="Learn by Building apps with React JS"
+                image="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRudU9p9BZfNulTMSw-b2iNU3jbQu7S4Tf-4g&usqp=CAU"
+            />
+            <VideoRow
+                views="600k"
+                subs="300k"
+                description="Perfecting and Honing web dev skills.....awsome"
+                timestamp="30 mins ago"
+                channel="Hookypoo's Place"
+                title="Learn by Building apps with React JS"
+                image="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRudU9p9BZfNulTMSw-b2iNU3jbQu7S4Tf-4g&usqp=CAU"
+            />
+            <VideoRow
+                views="600k"
+                subs="300k"
+                description="Perfecting and Honing web dev skills.....awsome"
+                timestamp="30 mins ago"
+                channel="Hookypoo's Place"
+                title="Learn by Building apps with React JS"
+                image="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRudU9p9BZfNulTMSw-b2iNU3jbQu7S4Tf-4g&usqp=CAU"
+            />
+            <VideoRow
+                views="600k"
+                subs="300k"
+                description="Perfecting and Honing web dev skills.....awsome"
+                timestamp="30 mins ago"
+                channel="Hookypoo's Place"
+                title="Learn by Building apps with React JS"
+                image="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRudU9p9BZfNulTMSw-b2iNU3jbQu7S4Tf-4g&usqp=CAU"
+            />
+            <VideoRow
+                views="600k"
+                subs="300k"
+                description="Perfecting and Honing web dev skills.....awsome"
+                timestamp="30 mins ago"
+                channel="Hookypoo's Place"
+                title="Learn by Building apps with React JS"
+                image="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRudU9p9BZfNulTMSw-b2iNU3jbQu7S4Tf-4g&usqp=CAU"
+            />
+            <VideoRow
+                views="600k"
+                subs="300k"
+                description="Perfecting and Honing web dev skills.....awsome"
+                timestamp="30 mins ago"
+                channel="Hookypoo's Place"
+                title="Learn by Building apps with React JS"
+                image="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRudU9p9BZfNulTMSw-b2iNU3jbQu7S4Tf-4g&usqp=CAU"
+            />
+            <VideoRow
+                views="600k"
+                subs="300k"
+                description="Perfecting and Honing web dev skills.....awsome"
+                timestamp="30 mins ago"
+                channel="Hookypoo's Place"
+                title="Learn by Building apps with React JS"
+                image="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRudU9p9BZfNulTMSw-b2iNU3jbQu7S4Tf-4g&usqp=CAU"
+            />
         </div>
     );
 }
