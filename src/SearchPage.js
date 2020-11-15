@@ -2,6 +2,7 @@ import React from 'react'
 import ChannelRow from "./ChannelRow";
 import TuneOutlinedIcon from '@material-ui/icons/TuneOutlined';
 import "./SearchPage.css";
+import VideoRow from "./VideoRow";
 
 function SearchPage() {
     return (
@@ -18,7 +19,18 @@ function SearchPage() {
                 verified
                 subs="700K"
                 noOfVideos={382}
-                description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ullamcorper nisl nec varius iaculis. Suspendisse luctus dui ac lobortis volutpat. Nam varius nisi quam, imperdiet imperdiet enim gravida in. Donec vel nisi sit amet sapien venenatis varius consequat a ante. Praesent non lacus sed elit interdum sollicitudin. Nam finibus metus."
+                description="Lorem ipsum Nam varius nisi quam, imperdiet imperdiet enim gravida in. Donec vel nisi sit amet sapien venenatis varius consequat a ante. Praesent non lacus sed elit interdum sollicitudin. Nam finibus metus."
+            />
+            <hr />
+
+            <VideoRow
+                views="600k"
+                subs="300k"
+                description="Perfecting and Honing web dev skills.....awsome"
+                timestamp="30 mins ago"
+                channel="Hookypoo's Place"
+                title="Learn by Building apps with React JS"
+                image="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRudU9p9BZfNulTMSw-b2iNU3jbQu7S4Tf-4g&usqp=CAU"
             />
         </div>
     );

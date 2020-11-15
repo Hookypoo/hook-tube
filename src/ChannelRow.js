@@ -3,7 +3,7 @@ import "./ChannelRow.css";
 import VerifiedIcon from '@material-ui/icons/CheckCircleOutlineOutlined';
 import Avatar from "@material-ui/core/Avatar";
 
-function ChannelRow({ image, channel, verified, subs, noOfVideoes, description }) {
+function ChannelRow({ image, channel, verified, subs, noOfVideos, description }) {
     return (
         <div className="ChannelRow">
             <Avatar className="channelRow__logo" alt={channel} src={image} />
@@ -11,6 +11,12 @@ function ChannelRow({ image, channel, verified, subs, noOfVideoes, description }
                 <h4>
                     {channel} {verified && <VerifiedIcon />}
                 </h4>
+                <p>
+                    {subs} subscribers • {noOfVideos} videos
+                </p>
+                <p>
+                    {description}
+                </p>
             </div>
         </div>
     );
